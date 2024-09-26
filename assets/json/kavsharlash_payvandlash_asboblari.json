@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "img": [
+      "assets/images/koviya_1.png",
+      "assets/images/koviya_2.png"
+    ],
+    "title": "Koviya turlari",
+    "description": "\t\t\tBuyum tayyorlashda biriktirishning kavsharlash usulidan ham foydalaniladi. Kavsharlashda qismlar kavshar deb ataluvchi maxsus metall qotishmalar bilan ajralmaydigan qilib biriktiriladi. Kavsharlash turli xil koviya (kavsharlagich)lar bilan bajariladi.",
+    "videos" : []
+  },
+  {
+    "id": "2",
+    "img": ["assets/images/svarka.png"],
+    "title": "Metallni elektr yoyi yordamida qо‘lda payvandlash",
+    "description": "\t\t\t\t\t\t\t\t\t\t\t\t\tElektr yoyi yordamida payvandlash uskunalari\n\n\t\t\t\t\tElektr payvandlash - doimiy bo'g'inlarni yaratish usullaridan biri bo'lib, bu erda birlashtiriladigan qismlarning metallini isitish va eritish elektr yoyi yordamida amalga oshiriladi. Elektr payvandlash mashinalari texnologik jarayonni amalga oshirish va metall elementlar o'rtasida ajralmas aloqani yaratish uchun ishlatiladi. Shuningdek, siz metall konstruksiyalarni kesishingiz yoki ulardan qismlarni ajratishingiz mumkin.\nQurilmalar doirasi payvandlash oqimining qiymati bilan belgilanadi:\n\t\t\t\t•\t150 A gacha - maishiy elektr payvandlash mashinalari.\n\t\t\t\t•\t250 A gacha - yarim professional.\n\t\t\t\t•\t250 A dan ortiq - professional.\nQurilmalar uchta funktsiyaga ega.\n\t\t\t\t1.\tIssiq boshlanish. Dastlabki davrda oqim kuchayadi va transformatorda bo'lgani kabi elektrodni isitish talab qilinmaydi. Ishga tushganda, kamon kuchliroq bo'ladi va payvandlash muvaffaqiyatli bo'ladi.\n\t\t\t\t2.\tYopishga qarshi - elektrod tiqilib qolganda ish oqimining oshishi. Natijadatez tortib olinadi va payvandlash parametrlari bir zumda tiklanadi.\n\t\t\t\t3.\tYonni majburlash. Yopishqoqlikka qarshi rejimdagi payvandlash oqimi parametrlari metall juda ko'p sochilmasligi uchun o'rnatiladi",
+    "videos" : [
+      "assets/videos/elektr_yoyi_yordamida_payvandlash_video_1.mp4",
+      "assets/videos/elektr_yoyi_yordamida_payvandlash_video_2.mp4"
+    ]
+  },
+  {
+    "id": "3",
+    "img": ["assets/images/avtogen.png"],
+    "title": "Gaz alangasida payvandlash.",
+    "description": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGaz alangasida payvandlash uskunalari\n\n\t\t\t\t\tGaz bilan payvandlash issiqlik manbai sifatida gaz alangasi yordamida amalga oshiriladi. Propan, asetilen, butan, MAF, vodorod asosiy moddalar bo'lib, ular kislorod bilan birgalikda yonish jarayonida yonadi va issiqlik ajralib chiqadi, plomba moddasi va payvandlanadigan sirtni eritadi\nGaz va kislorodning yonishidan olinadigan issiqlik qismlar va qo'shimchalar yuzasini birlashtirib, chok hosil qiladi. Olov kislorod miqdori bilan boshqariladi va plomba tayoqlari asosiy metallning tarkibi va qalinligi asosida tanlanadi.\nGaz bilan payvandlash metallning bir xil va bosqichma-bosqich isishi bilan tavsiflanadi. Jarayon doirasi:\n\t\t\t\t•\tqalinligi 0, 2 va 5 mm dan oshmaydigan po'lat;\n\t\t\t\t•\trangli metall;\n\t\t\t\t•\tturiyumshoq isitish va asta-sekin sovutishni talab qiladigan po'latlar;\n\t\t\t\t•\tquyma temir;\n\t\t\t\t•\tbirlashish uchun isitish talab qilinadigan ba'zi po'latlar.",
+    "videos" : [
+      "assets/videos/gaz_alangasida_payvandlash_video.mp4"
+    ]
+  }
+]

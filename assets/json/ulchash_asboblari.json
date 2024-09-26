@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "img": "assets/images/masshtabli_metall_chizgizch.png",
+    "title": "Masshtabli metall chizg'ich.",
+    "description": "\t\t\tZagotovka va buyumlarning chiziqli о'lchamlarini о'lchash, tayyor detallar о'lchamlarini tekshirishda ishlatiladi. Uzunligi 150 mm dan 1000 mm gacha, eni 11 mm dan 35 mm gacha, qalinligi 03 mm dan 1,5 mm gacha bо'ladi.",
+    "videos": []
+  },
+  {
+    "id": 2,
+    "img": "assets/images/urama_metr.png",
+    "title": "O‘rama metr (ruletka)",
+    "description": "\n\n\t\t\tO‘rama metr katta о‘lchamlarni о‘lchashda qo‘llaniladi. Uning lentasi 2; 5; 10; 20; 30 va 50 metr uzunlikda bo‘lishi mumkin",
+    "videos": []
+  },
+  {
+    "id": 3,
+    "img": "assets/images/sirkul.png",
+    "title": "Chilangarlik sirkullari.",
+    "description": "\n\n\t\t\tAylana va yoylarni rejalash, kesma va aylanalarni teng bо‘laklarga bо‘lish, geometrik yasashlarni bajarishda ishlatiladi. Chilangarlik sirkullari tuzilishiga kо‘ra oddiy, ignali va boshqa kо‘rinishlarda bо‘ladi",
+    "videos": []
+  },
+  {
+    "id": 4,
+    "img": [
+      "assets/images/chilangarlik_gonyalari.png",
+      "assets/images/chilangarlik_gonyalari_2.png"
+    ],
+    "title": "Chilangarlik gо‘niyalari.",
+    "description": "\n\n\t\t\tTо‘g‘ri burchakli reja chiziqlari chizishda, tayyor buyum va detallarning tо‘g‘ri burchakliligini tekshirishda ishlatiladigan о‘lchash va rejalash asbobidir. Ular har xil konstruksiyada tayyorlanadi. Masalan, lekal, kundali, oddiy, yostiqli gо‘niya turlari bor.",
+    "videos": []
+  },
+  {
+    "id": 5,
+    "img": [
+      "assets/images/shtangen_sirkul.png",
+      "assets/images/shtangen_sirkul_2.png"
+    ],
+    "title": "Shtangensirkul.",
+    "description": "\n\n\t\t\tShtangensirkul universal о‘lchov asbobi bо‘lib, chiziqli о‘lchamlarni, tashqi, ichki diametr va chuqurliklarni o‘lchash, tayyor detal va buyumlarning о‘lchamlarini tekshirish, shuningdek, rejalash ishlarini bajarishda ishlatiladi. Hozirda ularning zamonaviy variantlari ham ishlab chiqarilgan bо‘lib, ular bilan о‘lchash oson. Korxonalarda 100 dan 2000 mm gacha о‘lchash imkonini beradigan, aniqlik darajasi 0,1; 0,05; 0,02 gacha bо‘lgan shtangensirkullar ishlab chiqariladi. Maktab о‘quv ustaxonalarida 300 mm gacha о‘lchash imkonini beradigan shtangensirkullar ishlatiladi.",
+    "videos": []
+  },
+  {
+    "id": 6,
+    "img": "assets/images/buklama_metr.png",
+    "title": "Buklama metr.",
+    "description": "\n\n\t\t\tBuklama metr о‘nta bir xil uzunlikdagi (100 mm li) chizg‘ichlardan iborat. Ular о‘zaro sharnir bilan biriktirilgan. U uzunligi 100 cm orasida bо‘lgan buyumlarning ichki о‘lchamlarini о‘lchashda ishlatiladi.",
+    "videos": []
+  },
+  {
+    "id": 7,
+    "img": "assets/images/kerner.png",
+    "title": "Chilangarlik chekichi (kerner) ",
+    "description": "\n\n\t\t\tReja chiziqlarini о‘chib ketishini hisobga olib, ularning ustidan nuqta tushirish, markazlarni belgilash, parma о‘rnini chekichlash uchun ishlatiladi. Uzun о‘lchamdagi rejalar 25, 60, 100 mm oraliqlarda, qisqa о‘lchamdagi, shuningdek, egri chiziqli rejalarni 5–10 mm oraliqlarda chekiladi",
+    "videos": []
+  }
+]

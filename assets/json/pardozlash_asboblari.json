@@ -1,0 +1,20 @@
+[
+  {
+    "id" : "1",
+    "img" : [
+      "assets/images/jilvir_qogozi.png"
+    ],
+    "title" : "Jilvir qog‘oz va Metall buyumlarni jilvirlash uskunalari",
+    "description" : "Jilvir qog‘oz \t| silliqlash moslamalari |\t jilvirlash mashinasi\n\n\t\t\tJilvir qog‘oz bir tomoniga mayda qattiq minerallar yoki shisha kukuni yelimlab yopishtirilgan ip mato yoki qog‘ozdan iborat bo‘lib, pardozlashda ishlatiladi. Jilvir qog‘ozlar yirik va mayda donali bо‘lib, donalarning о‘lchamiga qarab quyidagicha raqamlanadi: 12, 16, 20, 24, 36, 60, 80, 100 120, 140, 170, 200, 280. Raqamlar ortib borishi bilan jilvir qog‘oz mayda donali bо‘lib boradi. Metall buyumlarni silliqlashda yog‘och, plastmassa va metalldan yasalgan turli shakllardagi maxsus silliqlash moslamalari hamda jilvirlash mashinasidan foydalaniladi.",
+    "videos" : []
+  },
+  {
+    "id" : "2",
+    "img" : [
+      "assets/images/polirovkalash_asbobi.png"
+    ],
+    "title" : "Polirovkalash uskunasi",
+    "description" : "\t\t\tPolirovkalash metall buyumlari yuza qismlariga maxsus vositalar yordamida pardoz berishning yakuniy jarayoni hisoblanadi. Bu jarayon ham dastaki moslamalar bilan va maxsus mashinalarda amalga oshiriladi. Bunda yasalgan buyum o‘ta chiroyli ko‘rinishga keladi. Bundan ko‘pincha avtomobillarni pardozlashda foydalaniladi.",
+    "videos" : []
+  }
+]

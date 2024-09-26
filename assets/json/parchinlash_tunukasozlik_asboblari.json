@@ -1,0 +1,49 @@
+[
+  {
+    "id" : "1",
+    "img": [
+      "assets/images/parchin_mix_1.png",
+      "assets/images/parchin_mix_2.png"
+    ],
+    "title" : "Parchin mix turlari",
+    "description" : "\t\t\tParchin mixlar materialiga va ishlatilish sohasiga qarab turli konstruksiyada tayyorlanadi. Ular sterjenining diametri 1 mm dan 37 mm gacha bо‘lgan yarim yumaloq kallakli (3); yashirin kallakli (2); yarim yashirin kallakli (1); yassi kallakli (4); konussimon kallakli (5); pistonsimon (6) kо‘rinishida bо‘ladi.",
+    "videos": []
+  },
+  {
+    "id" : "2",
+    "img": [
+      "assets/images/tortqich_tutqich.png"
+    ],
+    "title" : "Tortqich va tutqich.",
+    "description" : "\t\t\tTortqich (1) parchin mix о‘tkazilgandan sо‘ng parchinlanadigan qismlarni birbiriga jipslash uchun ishlatiladi. Uning uchi parchin mix sterjeni kiradigan qilib parmalangan bо‘ladi. Parchin mix о‘tkazilgan birikmani tutqich (2) ustiga о‘rnatib bolg‘alab, kallaklashdan oldin tortqich bilan tortib jipslab olinadi.",
+    "videos": []
+  },
+  {
+    "id" : "3",
+    "img": [
+      "assets/images/tutqich_ezgich.png"
+    ],
+    "title" : "Tutqich va ezgich",
+    "description" : "\t\t\tTutqich (2) uchida parchin mix kallagiga mos sferik о‘yiqchasi bо‘lgan, bolg‘alash vaqtida kallakni ezilishdan saqlaydigan taglik tayanchdan iborat bо‘lib, sandon vazifasini о‘taydi. U tiskiga yoki maxsus tayanchlarga о‘rnatiladi. Qisqichning ish qismida parchin mix kallagiga mos о‘yiqchasi bо‘lib, xomaki bolg‘alash yо‘li bilan hosil qilingan kallakni ezib (3), biriktiruvchi kallak hosil qilishda ishlatiladi",
+    "videos": []
+  },
+  {
+    "id" : "4",
+    "img": [
+      "assets/images/boglash.png"
+    ],
+    "title" : "Bolg‘alash",
+    "description" : "\t\t\tParchinlashda, kо‘pincha, kvadrat muxrali bolg‘alar.",
+    "videos": []
+  },
+  {
+    "id" : "5",
+    "img": [
+      "assets/images/bukish_moslamalari_1.png",
+      "assets/images/bukish_moslamalari_2.png"
+    ],
+    "title" : "Bukish moslamalari",
+    "description" : "\t\t\tTunukasozlikda tunukalarni tо‘g‘rilash, bukish, choklash kabi ishlar bajariladi. Bunda bolg‘alash ishlari yog‘och tо‘qmoq bilan bajariladi. Metall bolg‘alar bilan bolg‘alashda tunukalar ezilib, iz hosil bо‘ladi, buyum sifati buziladi. Tunukalarni qiyish, ularning qalin-yupqaligiga qarab dastaki va stul qaychilari bilan olib boriladi. Bukish ishlarini bajarishda qanday shaklga keltirilishiga qarab uchburchak (a), kvadrat (b), yumaloq (d) va boshqa turli xil moslamalardan ham foydalaniladi",
+    "videos": []
+  }
+]

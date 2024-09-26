@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "img": [
+      "assets/images/parmalash_stanogi.png",
+      "assets/images/parmalash_stanogi_tuzilishi.png"
+    ],
+    "title" : "Parmalash stanogi",
+    "description": "\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tParmalash stanogining tuzilishi\nParmalash stanogining tuzilishi: 1-plastinka, 2-ustun, 3-konsul, 4-elektr motor, 5-shpindel, 6-shpindel suruvchi dasta, 7-boshqaruv qutisi, 8-kalitli kartridj, 9-himoya tuskichi\n\n\t\t\tChilangarlik о‘quv ustaxonalarida, asosan, stolga о‘rnatiladigan parmalash stanogidan foydalaniladi. Bu stanok tuzilishining soddaligi, ishlatilishining osonligi bilan boshqa stanoklardan farq qiladi. \n\t\t\tParmalash — metall va yogʻoch buyumlarga teshik ochish, chuqurcha oʻyish. P. parma, mexanik asboblar (elektr parma, elektr drel), parmalash stanoklari, parmalash avtomatlari, tokarlik stanoklari, dastaki asboblar va boshqalarda bajariladi. Lazer nuri yordamida parmalash usuli ham bor. Bu usulda olmos bu-yumlarda, issiqlik oʻtkazuvchanligi past boʻlgan materiallardan yasalgan narsalarga teshiklar ochiladi. ",
+    "videos": [
+      "assets/videos/parmalash_stanogi.mp4"
+    ]
+  },
+  {
+    "id": 2,
+    "img": [
+      "assets/images/frezalash_stanogi.png",
+      "assets/images/frezalash_stanogi_tuzilishi.png"
+    ],
+    "title" : "Frezalash stanogi",
+    "description": "\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tFrezalash stanogining tuzilishi\nFrezalash stanogining tuzilishi: 1-stanina, 2-xobot, 3-shpindel kallagi, 4-elektir dvigatel, 5-tezlik qutisi, 6-boshqaruv paneli, 7-displey, 8-stol, 9-poddon, 10-asos, 11-konsul\n\n\t\t\tFrezalash stanoklarida gorizontal, vertikal va qiya yassi, shakldor yuzalarni shakllantirish, tо‘g‘ri va vintsimon ariqchalar va pazlar ochish, g‘ildiraklarda tishlar kesish, tashqi va ichki rezbalar ochish kabi ishlar bajariladi.",
+    "videos": ["assets/videos/frezalash_stanogi.mp4"]
+  },
+  {
+    "id": 3,
+    "img": [
+      "assets/images/tokarlik_stanogi.png",
+      "assets/images/tokarlik_stanogi_tuzilishi.png"
+    ],
+    "title" : "Tokarlik-vintqirqish stanogi",
+    "description": "\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tTokarlik-vintqirqish stanogining tuzilishi\nTokarlik-vintqirqish stanogining tuzilishi: 1-asos, 2-boshqaruv qutisi, 3-oldingi babbka, 4-himoya ekrani, 5-qalqon, 6-markazini mahkamlash qismi, 7-ketingi babbka, 8-yurgizuvchi val, 9-fartuk, 10-surish vinti, 11-stanina, 12-maxsus idish, 13-elektir shikaf.\n\n\t\t\tTokarlik-vintqirqish stanoklari xilma-xil ishlarni bajarish uchun mо‘ljallangan. Bu stanoklarda sirtqi silindrik, konussimon va shakldor yuzalarni yо‘nish; silindrik va konussimon teshiklarni yо‘nib kengaytirish; tores yuzalarni yо‘nish; sirtqi va ichki rezbalar qirqish; teshiklar parmalash, zenkerlash va razvyortkalash; zagotovkalarni qirqib tushirish, qisman kesish va boshqa ishlarni bajarish mumkin",
+    "videos": ["assets/videos/tokarlik_vint_qirqish_stanogi.mp4"]
+  },
+  {
+    "id": 4,
+    "img": [
+      "assets/images/jilvirlash_stanogi.png"
+    ],
+    "title" : "Jilvirlash stanogi",
+    "description": "\n\n\t\t\tJilvirlash stanoklari, asosan, texnologik jarayonning oxirgi tozalab va pardozlab ishlov berish operatsiyalarini bajarish uchun mо‘ljallangan.",
+    "videos": []
+  }
+]
