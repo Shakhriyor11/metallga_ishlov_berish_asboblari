@@ -5,11 +5,15 @@
       "assets/images/chilangarlik_qaychilari_1.png",
       "assets/images/richagli_qaychi.png",
       "assets/images/elektr_qaychi.png",
-      "assets/images/ong_chap_qaychi.png"
+      "assets/images/ong_chap_qaychi.png",
+      "assets/images/qaychi_turlari.png"
     ],
     "title": "Chilangarlik qaychilari",
-    "description": "a) tо‘g‘ri; b) universal; d) richagli (mexanik); e) elektr qaychilar.\t\t\t O‘naqay va chapaqay qaychilar\n\n \t\t\tMetall qirqishda ishlatiladigan qaychilar dastaki, richagli (mexanik) va elektr qaychilarga bо‘linadi. О‘quv ustaxonalarida, kо‘pincha, dastaki qaychilar ishlatiladi. Dastaki qaychilar о‘naqay va chapaqay bо‘ladi.",
-    "videos" : []
+    "description": "a) tо‘g‘ri; b) universal; d) richagli (mexanik); e) elektr qaychilar.\t\t\t O‘naqay va chapaqay qaychilar\n\n \t\t\tMetall qirqishda ishlatiladigan qaychilar dastaki, richagli (mexanik) va elektr qaychilarga bо‘linadi. О‘quv ustaxonalarida, kо‘pincha, dastaki qaychilar ishlatiladi. Dastaki qaychilar о‘naqay va chapaqay bо‘ladi. \n\t\t\tDastaki qaychilar yupqa list materialni qirqish uchun ishlatiladi. Ular bilan 0,5-0,7 mm qalinlikdagi po’latni, tunukani, qalinligi 1,5 mm gacha bo’lgan rangli metallarni kirqish mumkin. \n\t\t\tDastaki qaychilarning tig’i kalta, dastasi uzun bo’ladi. Qaychilarning tig’i,   v = 70° burchak ostida charxlanadi. Metallni qirkqanda paydo bo’ladigan kuch ta`sirida tig’ning o’t, maslashishiga yo’l qo’ymaslik uchun charxlanish burchagi shunchalik katta olinadi. \n\t\t\tQaychilarning tig’ini o’tkir va to’g’ri chiziqli qilib charxlash kerak. Tig’lar butun uzunligi bo’yicha o’zaro yondoshib turishi lozim. Ular orasidagi zazor 0,2mm dan oshmasligi darkor.",
+    "videos" : [
+      "assets/videos/chilangarlik_qaychisi_1.mp4",
+      "assets/videos/chilangarlik_qaychisi_2.mp4"
+    ]
   },
   {
     "id": 2,
@@ -17,35 +21,48 @@
       "assets/images/chilangarlik_omburi.png",
       "assets/images/utkir_jagli_ombur.png",
       "assets/images/yumaloq_jagli_ombur.png",
-      "assets/images/yassi_jagli_ombur.png"
+      "assets/images/yassi_jagli_ombur.png",
+      "assets/images/ombur.png"
     ],
     "title": "Omburlar",
-    "description": "\t\t\tOmbur – mix sugʻurish, narsalarni qisib ushlash, egish, qirqish uchun ishlatiladigan ikki jagʻli asbobdir",
-    "videos" : []
+    "description": "\t\t\tOmbur – mix sugʻurish, narsalarni qisib ushlash, egish, qirqish uchun ishlatiladigan ikki jagʻli asbobdir.\nOmbur 2ta jag’ va dastakdan iborat.\n\t\t\tMixlab biriktirilgan buyumlarni qismlarga ajratishda va noto‘g‘ri qoqilgan mixlarni sug‘urishda chilangarlik omburidan yoki mix sug‘urgichlardan foydalaniladi. O‘tkir jag‘li ombirdan esa mixlarni surish maqsadida foydalanish mumkin emas. O‘lchamlariga mos keladigan yo’g‘onlikdagi sim va sterjenlarni qo‘ldagina qirqish kerak. Qo‘lning kuchi yetmagan hollarda bolg‘alab qirqishga yo’l qo‘yilmaydi. Bolg‘alash natijasida jag‘lar sinishi, uchib yetishi mumkin.",
+    "videos" : [
+      "assets/videos/omburlar.mp4"
+    ]
   },
   {
     "id": 3,
-    "img": "assets/images/otvyortka.png",
+    "img": ["assets/images/otvyortka.png"],
     "title": "Otvyortka",
-    "description": "Otvyortka: 1 – dasta; 2 – sterjen; 3 – ishchi qism (uchi). \n\n\t\t\tOtvyortka turli detallarni biriktirishda foydalaniladigan shuruplarni burab bо‘shatish va qotirish uchun ishlatiladigan dastaki (qо‘l) asbobdir.",
-    "videos" : []
+    "description": "Otvyortka: 1 – dasta; 2 – sterjen; 3 – ishchi qism (uchi). \n\n\t\t\tOtvyortka turli detallarni biriktirishda foydalaniladigan shuruplarni burab bо‘shatish va qotirish uchun ishlatiladigan dastaki (qо‘l) asbobdir. \n\t\t\tVint va shuruplarni burab oladigan yoki mahkamlaydigan asbob. Otvyortkalar vazifasiga ko‘ra va tuzilishigi ko‘ra turli ko‘rinishda bo‘ladi.",
+    "videos" : [
+      "assets/videos/otvyortka.mp4"
+    ]
   },
   {
     "id": 4,
     "img": [
       "assets/images/stanokli_arra.png",
-      "assets/images/dastaki_arra.png"
+      "assets/images/dastaki_arra.png",
+      "assets/images/chilangarlik_arrasi.png"
     ],
     "title": "Chilangarlik arralari",
-    "description": "\t\t\t\t\t\t\t\t\tChilangarlik arralari turlari: dastaki, stanokli.\n\n \t\t\tTurli xil qalinlikdagi tunuka va listlarni, har xil profildagi prokatlarni arralashda chilangarlik arralari ishlatiladi. Arralash yо‘li bilan pazlar, shlitsalar ham ochiladi. Chilangarlik arralari dastaki va stanokli turlarga bо‘linadi",
-    "videos" : []
+    "description": "\t\t\t\t\t\t\t\t\tChilangarlik arralari turlari: dastaki, stanokli.\n\n\t\t\tChilangarlik arralari: a-dastaki, b-stanokli: 1-ramka, 2-dasta, 3-polotno, 4-tortqi vint va quloqli gayka.\n\t\t\tDastaki arra dasta va polotnodan, stanokli arra stanok va polotnodan iborat. Arra stanogi quyidagi qismlardan tashkil topgan: dasta, ramka, tortqi vint va quloqli gayka (barashka). Polotno tishlarinng qayrilish burchagi odatda 60 ° ni tashkil qiladi. Metallni qirqayotgan paytda ishqalanish kuchini kamaytirish uchun ikki tomonga qayiriladi. Polotno to’lqinsimon qilib ishlangani uchun uning qirqish eni 0,25-0, 6 mm ko’proq bo’ladi. Temir arra polotnosining uzunligi odatda 250-350 mm, eni 12-15 mm, qalinligi 0,6-0, 8 mm bo’lib« tishlar qadami 0,6-1,2 mm ni tashkil qiladi.\n\t\t\tTurli xil qalinlikdagi tunuka va listlarni, har xil profildagi prokatlarni arralashda chilangarlik arralari ishlatiladi. Arralash yо‘li bilan pazlar, shlitsalar ham ochiladi. Chilangarlik arralari dastaki va stanokli turlarga bо‘linadi",
+    "videos" : [
+      "assets/videos/chilangarlik_arralari.mp4"
+    ]
   },
   {
     "id": 5,
-    "img": "assets/images/zubilo.png",
+    "img": [
+      "assets/images/zubilo.png",
+      "assets/images/zubilo_2.png"
+    ],
     "title": "Zubilo",
-    "description": "\n\n\t\t\tMetallar zubilo va kreysmeysellar yordamida qirqiladi va tarashlanadi.",
-    "videos" : []
+    "description": "\n\n\t\t\tMetallar zubilo va kreysmeysellar yordamida qirqiladi va tarashlanadi.\n\t\t\tZubilo ish qismi (tig‘), tana va zarb beruvchi qismlardan iborat bo‘lib, U7, U7A, U8, U8A markali uglerodli asbobsozlik po‘latlaridan tayyorlanadi.\n\t\t\tZubilo – metallarni qirqishda kesuvchi asbob sifatida chilangarlik asbobi bo‘lib, metalni kesish, tunukadan zagatovka qirqib olish, teshik va ariqchalar ochish, metall sirtidan g‘adir-budurlarni tozalashda ishlatiladi.\n\t\t\tZubiloning tig‘ini kengligi 5 mm dan 25 mm gacha pona shaklida cho‘ziladi va shundan so‘ng kerakli darajada o‘tkirlik burchagi yo‘niladi. Zubiloning uriladigan qismi, ya’ni kallagi odatda konussimon qilinadi va bo‘rttiriladi. Mana shu shakl zubiloning bolg‘a zarbiga chidamligini oshiradi.\n\t\t\tZubilolar 100, 125, 150 va 200 mm uzunlikda tayyorlanib, tig‘ining eni Unga mos ravishdaYU, 15, 20 va 25 mm bo‘ladi.",
+    "videos" : [
+      "assets/videos/zubilo.mp4"
+    ]
   },
   {
     "id": 6,
@@ -55,7 +72,9 @@
     ],
     "title": "Chilangarlik bolg‘alari",
     "description": "a) kvadrat (tо‘g‘ri tо‘rtburchak) muxrali. b) doiraviy muxrali. \nChilangarlik bolg‘alari: 1 – zarb beruvchi muxralari; 2 – pona; 3 – uchi; 4 – dasta. \n\n\t\t\tMetallarni bolg‘alash (egish, bukish, tо‘g‘rilash), parchinlash, zubilo yordamida qirqishda chilangarlik bolg‘alaridan foydalaniladi (66-rasm). Ular kvadrat (tо‘g‘ri to‘rtburchak), doiraviy muxrali bo‘lib, og‘irligi 200, 400, 500, 600 g gacha bо‘ladi.",
-    "videos" : []
+    "videos" : [
+      "assets/videos/chilangarlik_bolgalari.mp4"
+    ]
   },
   {
     "id": 7,
@@ -63,8 +82,10 @@
       "assets/images/sandon.png"
     ],
     "title": "Sandon",
-    "description": "\t\t\tSandon yaxlit metall taglik bо‘lib, uning ustida metallarni tо‘g‘rilash, parchinlash, qirqish kabi ishlar amalga oshiriladi.",
-    "videos" : []
+    "description": "\t\t\tSandon yaxlit metall taglik bо‘lib, uning ustida metallarni tо‘g‘rilash, parchinlash, qirqish kabi ishlar amalga oshiriladi. Uni maxsus stol, tumbochka yoki kunda ustida o‘rnatiladi. Ish vaqtida sandonning o‘rinsiz bolg‘alanishiga, zubilo bilan chaqalanishiga yo’l qo‘ymaslik kerak. Bu hol sandon sirtining silliqligi va tekisligini buzadi, u o‘z navbatida zagotovka sirtining ezilishiga sabab bo‘ladi. Bunday hollarning ro‘y bermasligining oldini olish maqsadida yupqa listlarni qirqishda sandon ustiga yumshoq po‘latlardan ehtiyot plastinka qo‘yib olinadi, qalin listlarni ikki tomonlama qirqib sindirib olinadi.",
+    "videos" : [
+      "assets/videos/sandon.mp4"
+    ]
   },
   {
     "id": 8,
@@ -72,7 +93,9 @@
       "assets/images/egovlar.png"
     ],
     "title": "Egovlar",
-    "description": "Egov turlari: 1 – bir qirrali; 2 – yarim doirali; 3 – uch qirrali; 4 – kvadrat; 5 – yumaloq.\n\n\t\t\tEgovlar bir qirrali, yarim doirali, uch qirrali, kvadrat, yumaloq va maxsus egovlarga bo‘linadi",
-    "videos" : []
+    "description": "Egov turlari: 1 – bir qirrali; 2 – yarim doirali; 3 – uch qirrali; 4 – kvadrat; 5 – yumaloq.\n\n\t\t\tUni maxsus stol, tumbochka yoki kunda ustida o‘rnatiladi. Ish vaqtida sandonning o‘rinsiz bolg‘alanishiga, zubilo bilan chaqalanishiga yo’l qo‘ymaslik kerak. Bu hol sandon sirtining silliqligi va tekisligini buzadi, u o‘z navbatida zagotovka sirtining ezilishiga sabab bo‘ladi. Bunday hollarning ro‘y bermasligining oldini olish maqsadida yupqa listlarni qirqishda sandon ustiga yumshoq po‘latlardan ehtiyot plastinka qo‘yib olinadi, qalin listlarni ikki tomonlama qirqib sindirib olinadi.\n\t\t\tEgovlar bir qirrali, yarim doirali, uch qirrali, kvadrat, yumaloq va maxsus egovlarga bo‘linadi",
+    "videos" : [
+      "assets/videos/egovlar.mp4"
+    ]
   }
 ]

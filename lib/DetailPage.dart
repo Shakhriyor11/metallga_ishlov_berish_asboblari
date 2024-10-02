@@ -11,12 +11,11 @@ class DetailPage extends StatefulWidget {
   final String description;
   final dynamic videos;
 
-  const DetailPage(
-      {super.key,
-      required this.images,
-      required this.title,
-      required this.description,
-      required this.videos});
+  const DetailPage({super.key,
+    required this.images,
+    required this.title,
+    required this.description,
+    required this.videos});
 
   @override
   State<DetailPage> createState() => _DetailPageState();
@@ -33,7 +32,7 @@ class _DetailPageState extends State<DetailPage> {
     if (widget.videos != null && widget.videos.isNotEmpty) {
       for (var video in widget.videos) {
         VideoPlayerController videoPlayerController =
-            VideoPlayerController.asset(video);
+        VideoPlayerController.asset(video);
 
         videoPlayerController.initialize().then((_) {
           setState(() {
@@ -107,67 +106,81 @@ class _DetailPageState extends State<DetailPage> {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              if (imgList.length > 1)
-                SizedBox(
-                  child: GridView.builder(
-                    shrinkWrap: true,
-                    gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
-                      crossAxisCount: 2,
-                      crossAxisSpacing: 10,
-                      mainAxisSpacing: 10,
-                    ),
-                    itemCount: imgList.length,
-                    physics: NeverScrollableScrollPhysics(),
-                    itemBuilder: (context, index) {
-                      final imgUrl = imgList.elementAt(index);
-                      return Image.asset(
-                        height: 100.h,
-                        imgUrl,
-                        fit: BoxFit.contain,
-                      );
-                    },
-                  ),
-                )
-              else
-                SizedBox(
-                    child: Image.asset(
-                  imgList.elementAt(0),
-                  height: 200.h,
-                  width: double.infinity,
-                  fit: BoxFit.contain,
-                )),
+              _displayImages(imgList),
               SizedBox(child: AutoSizeText(widget.description)),
               if(widget.videos.isNotEmpty) ...[
                 Text(
-                  "Video: ",
+                  "Video",
                   style: TextStyle(
-                    fontSize: 20.sp,
+                    fontSize: 18.sp,
                     fontWeight: FontWeight.bold,
                   ),
                 ),
-                SizedBox(height: 15.h)
+                SizedBox(height: 15.h,),
               ],
-
-              widget.videos.isNotEmpty
-                  ? _isVideoInitialized
-                      ? Column(
-                          children:
-                              List.generate(_chewieControllers.length, (index) {
-                            return Padding(
-                              padding: EdgeInsets.symmetric(vertical: 10.h),
-                              child: SizedBox(
-                                  height: 200.h,
-                                  child: Chewie(controller: _chewieControllers[index]),
-                              )
-                            );
-                          }),
-                        )
-                      : Center(child: CircularProgressIndicator())
-                  : Container(),
+              _displayVideos()
             ],
           ),
         ),
       ),
     );
   }
+
+  Widget _displayImages(List<String> imgList) {
+    if (imgList.length > 1) {
+      return SizedBox(
+        child: GridView.builder(
+          shrinkWrap: true,
+          gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+            crossAxisCount: 2,
+            crossAxisSpacing: 10,
+            mainAxisSpacing: 10,
+          ),
+          itemCount: imgList.length,
+          physics: NeverScrollableScrollPhysics(),
+          itemBuilder: (context, index) {
+            final imgUrl = imgList.elementAt(index);
+            return Image.asset(
+              height: 100.h,
+              imgUrl,
+              fit: BoxFit.contain,
+            );
+          },
+        ),
+      );
+    } else {
+      return SizedBox(
+        child: Image.asset(
+          imgList.elementAt(0),
+          height: 200.h,
+          width: double.infinity,
+          fit: BoxFit.contain,
+        ),
+      );
+    }
+  }
+
+  Widget _displayVideos() {
+    if(widget.videos.isNotEmpty) {
+      if(_isVideoInitialized) {
+        return Column(
+          children:
+          List.generate(_chewieControllers.length, (index) {
+            return Padding(
+              padding: EdgeInsets.symmetric(vertical: 10.h),
+              child: SizedBox(
+                height: 200.h,
+                child: Chewie(controller: _chewieControllers[index]),
+              ),
+            );
+          }),
+        );
+      } else {
+        return Center(child: CircularProgressIndicator());
+      }
+    } else {
+      return Container();
+    }
+  }
+
 }

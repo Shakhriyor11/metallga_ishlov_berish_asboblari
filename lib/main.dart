@@ -94,7 +94,7 @@ class _HomePageState extends State<HomePage> {
           ),
         ),
         title: AutoSizeText(
-          'Metallarga ishlov berishda foydalaniladigan asbob-uskuna, moslama va stanoklarning ishlatilish sohasiga ko‘ra turlar',
+          'Metallarga ishlov berishda foydalaniladigan asbob-uskuna, moslama va stanoklarning turlari',
           style: TextStyle(
             fontSize: 20.sp,
             fontWeight: FontWeight.w500,
