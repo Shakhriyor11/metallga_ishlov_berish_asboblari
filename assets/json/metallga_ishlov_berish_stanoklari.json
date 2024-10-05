@@ -34,10 +34,13 @@
   {
     "id": 4,
     "img": [
-      "assets/images/jilvirlash_stanogi.png"
+      "assets/images/jilvirlash_stanogi.png",
+      "assets/images/jilvirlash_stanogi_n.png"
     ],
     "title" : "Jilvirlash stanogi",
-    "description": "\n\n\t\t\tJilvirlash stanoklari, asosan, texnologik jarayonning oxirgi tozalab va pardozlab ishlov berish operatsiyalarini bajarish uchun mо‘ljallangan.",
-    "videos": []
+    "description": "Tuzilishi :1. asos,\n2. dvigatel,\n3. harakat uzatmasi,\n4. jilvir qogo’z o’rnatilgan aylanuvchi qism, \n5.jilvir qog’oz o’rnatilgan aylanuvchi disk \n6. yoqib o’chirish qurilmasidan iborat.\n7.detal ushlovchi stol\n\n\t\t\tJilvirlash stanoklari, asosan, texnologik jarayonning oxirgi tozalab va pardozlab ishlov berish operatsiyalarini bajarish uchun mо‘ljallangan.",
+    "videos": [
+      "assets/videos/jilvirlash_stanogi.mp4"
+    ]
   }
 ]

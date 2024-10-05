@@ -3,11 +3,14 @@
     "id": "1",
     "img": [
       "assets/images/koviya_1.png",
-      "assets/images/koviya_2.png"
+      "assets/images/koviya_2.png",
+      "assets/images/koviya_n.png"
     ],
     "title": "Koviya turlari",
-    "description": "\t\t\tBuyum tayyorlashda biriktirishning kavsharlash usulidan ham foydalaniladi. Kavsharlashda qismlar kavshar deb ataluvchi maxsus metall qotishmalar bilan ajralmaydigan qilib biriktiriladi. Kavsharlash turli xil koviya (kavsharlagich)lar bilan bajariladi.",
-    "videos" : []
+    "description": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tKoviya turlari\n\n\t\t\tBuyum tayyorlashda biriktirishning kavsharlash usulidan ham foydalaniladi. Kavsharlashda qismlar kavshar deb ataluvchi maxsus metall qotishmalar bilan ajralmaydigan qilib biriktiriladi. Kavsharlash turli xil koviya (kavsharlagich)lar bilan bajariladi.\n\t\t\tAsosan koviyalar ishlash usuliga ko’ra 2 xil bo’ladi: 1- olov yozdamida qizdirib kavsharlanadigan (a,b) va 2-elektr yozdamida qizdirib kavsharlanadigan (d). Olov yordamida qizdirib kavsharlanadigan koviyalar ko’rinish jihatdan 2 xil:bolğasimon(a) va to’g’ri(b) shaklda bo’ladi.",
+    "videos" : [
+      "assets/videos/koviya.mp4"
+    ]
   },
   {
     "id": "2",
